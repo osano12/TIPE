@@ -1,0 +1,19 @@
+2025-04-02 21:58:28,557 - PiCarX - INFO - Initialisation du contrôleur PiCarX
+2025-04-02 21:58:28,558 - PiCarX.Config - WARNING - Fichier de configuration non trouvé: config.yaml
+2025-04-02 21:58:38,191 - PiCarX.Camera - INFO - Caméra trouvée
+2025-04-02 21:58:38,192 - PiCarX.LineDetector - INFO - Initialisation du détecteur de ligne
+2025-04-02 21:58:38,589 - PiCarX.MotorController - INFO - Contrôleur moteur initialisé avec succès
+2025-04-02 21:58:38,590 - PiCarX.Navigator - INFO - Navigateur initialisé
+2025-04-02 21:58:38,612 - PiCarX - INFO - Démarrage du processus de vision
+2025-04-02 21:58:38,617 - PiCarX - INFO - Démarrage du processus de navigation
+2025-04-02 21:58:40,219 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:41,477 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:42,733 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:43,941 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:45,160 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:46,362 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:47,569 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:48,814 - PiCarX.MotorController - ERROR - Erreur lors du réglage de la vitesse: list indices must be integers or slices, not float
+2025-04-02 21:58:49,247 - PiCarX - INFO - Arrêt demandé par l'utilisateur
+2025-04-02 21:58:49,248 - PiCarX - INFO - Nettoyage des ressources
+2025-04-02 21:58:49,255 - PiCarX.Camera - INFO - Ressources libérées

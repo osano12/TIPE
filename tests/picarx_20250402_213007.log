@@ -1,0 +1,39 @@
+2025-04-02 21:30:07,893 - PiCarX - INFO - Initialisation du contrôleur PiCarX
+2025-04-02 21:30:07,894 - PiCarX.Config - WARNING - Fichier de configuration non trouvé: config.yaml
+2025-04-02 21:30:07,897 - PiCarX.LineDetector - INFO - Initialisation du détecteur de ligne
+2025-04-02 21:30:08,302 - PiCarX.MotorController - INFO - Contrôleur moteur initialisé avec succès
+2025-04-02 21:30:08,302 - PiCarX.Navigator - INFO - Navigateur initialisé
+2025-04-02 21:30:08,323 - PiCarX - INFO - Démarrage du processus de vision
+2025-04-02 21:30:08,329 - PiCarX - INFO - Démarrage du processus de navigation
+2025-04-02 21:30:08,430 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:08,531 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:08,632 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:08,733 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:08,833 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:08,934 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,035 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,135 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,236 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,337 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,437 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,538 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,638 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,739 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,840 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:09,940 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,041 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,141 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,242 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,343 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,443 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,544 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,644 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,745 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,846 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:10,946 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:11,047 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:11,147 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:11,248 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:11,349 - PiCarX - ERROR - Erreur dans le processus navigation: 
+2025-04-02 21:30:11,438 - PiCarX - INFO - Arrêt demandé par l'utilisateur
+2025-04-02 21:30:11,439 - PiCarX - INFO - Nettoyage des ressources

@@ -1,0 +1,6 @@
+2025-04-02 22:04:22,228 - PiCarX - INFO - Initialisation du contrôleur PiCarX
+2025-04-02 22:04:22,228 - PiCarX.Config - WARNING - Fichier de configuration non trouvé: config.yaml
+2025-04-02 22:04:22,969 - PiCarX.Camera - INFO - Caméra trouvée
+2025-04-02 22:04:22,970 - PiCarX.LineDetector - INFO - Initialisation du détecteur de ligne
+2025-04-02 22:04:23,369 - PiCarX.MotorController - ERROR - Erreur d'initialisation: Picarx.set_motor_speed() missing 1 required positional argument: 'motor'
+2025-04-02 22:04:23,369 - PiCarX - ERROR - Erreur lors de l'initialisation: Picarx.set_motor_speed() missing 1 required positional argument: 'motor'

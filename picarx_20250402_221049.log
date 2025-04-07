@@ -1,0 +1,11 @@
+2025-04-02 22:10:49,641 - PiCarX - INFO - Initialisation du contrôleur PiCarX
+2025-04-02 22:10:49,642 - PiCarX.Config - WARNING - Fichier de configuration non trouvé: config.yaml
+2025-04-02 22:10:50,651 - PiCarX.Camera - INFO - Caméra trouvée
+2025-04-02 22:10:50,652 - PiCarX.LineDetector - INFO - Initialisation du détecteur de ligne
+2025-04-02 22:10:51,120 - PiCarX.MotorController - INFO - Contrôleur moteur initialisé avec succès
+2025-04-02 22:10:51,120 - PiCarX.Navigator - INFO - Navigateur initialisé
+2025-04-02 22:10:51,156 - PiCarX - INFO - Démarrage du processus de vision
+2025-04-02 22:10:51,164 - PiCarX - INFO - Démarrage du processus de navigation
+2025-04-02 22:11:11,090 - PiCarX - INFO - Arrêt demandé par l'utilisateur
+2025-04-02 22:11:11,091 - PiCarX - INFO - Nettoyage des ressources
+2025-04-02 22:11:11,092 - PiCarX.Camera - INFO - Ressources libérées

@@ -1,0 +1,33 @@
+2025-04-02 21:39:08,686 - PiCarX - INFO - Initialisation du contrôleur PiCarX
+2025-04-02 21:39:08,687 - PiCarX.Config - WARNING - Fichier de configuration non trouvé: config.yaml
+2025-04-02 21:39:08,687 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 0
+2025-04-02 21:39:08,693 - PiCarX.Camera - WARNING - Tentative 1: Capture échouée avec la caméra 0
+2025-04-02 21:39:09,693 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 0
+2025-04-02 21:39:09,697 - PiCarX.Camera - WARNING - Tentative 2: Caméra 0 non accessible
+2025-04-02 21:39:10,698 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 0
+2025-04-02 21:39:10,702 - PiCarX.Camera - WARNING - Tentative 3: Capture échouée avec la caméra 0
+2025-04-02 21:39:11,703 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 14
+2025-04-02 21:39:21,720 - PiCarX.Camera - WARNING - Tentative 1: Capture échouée avec la caméra 14
+2025-04-02 21:39:22,721 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 14
+2025-04-02 21:39:22,739 - PiCarX.Camera - WARNING - Tentative 2: Caméra 14 non accessible
+2025-04-02 21:39:23,739 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 14
+2025-04-02 21:39:33,757 - PiCarX.Camera - WARNING - Tentative 3: Capture échouée avec la caméra 14
+2025-04-02 21:39:34,760 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 15
+2025-04-02 21:39:44,779 - PiCarX.Camera - WARNING - Tentative 1: Capture échouée avec la caméra 15
+2025-04-02 21:39:45,780 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 15
+2025-04-02 21:39:45,800 - PiCarX.Camera - WARNING - Tentative 2: Caméra 15 non accessible
+2025-04-02 21:39:46,801 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 15
+2025-04-02 21:39:56,818 - PiCarX.Camera - WARNING - Tentative 3: Capture échouée avec la caméra 15
+2025-04-02 21:39:57,822 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 21
+2025-04-02 21:40:07,852 - PiCarX.Camera - WARNING - Tentative 1: Capture échouée avec la caméra 21
+2025-04-02 21:40:08,853 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 21
+2025-04-02 21:40:08,878 - PiCarX.Camera - WARNING - Tentative 2: Caméra 21 non accessible
+2025-04-02 21:40:09,879 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 21
+2025-04-02 21:40:19,897 - PiCarX.Camera - WARNING - Tentative 3: Capture échouée avec la caméra 21
+2025-04-02 21:40:20,900 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 22
+2025-04-02 21:40:30,930 - PiCarX.Camera - WARNING - Tentative 1: Capture échouée avec la caméra 22
+2025-04-02 21:40:31,931 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 22
+2025-04-02 21:40:31,951 - PiCarX.Camera - WARNING - Tentative 2: Caméra 22 non accessible
+2025-04-02 21:40:32,952 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra 22
+2025-04-02 21:40:42,963 - PiCarX.Camera - WARNING - Tentative 3: Capture échouée avec la caméra 22
+2025-04-02 21:40:43,968 - PiCarX - ERROR - Erreur lors de l'initialisation: Impossible d'initialiser la caméra

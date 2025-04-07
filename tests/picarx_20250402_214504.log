@@ -1,0 +1,9 @@
+2025-04-02 21:45:04,049 - PiCarX - INFO - Initialisation du contrôleur PiCarX
+2025-04-02 21:45:04,050 - PiCarX.Config - WARNING - Fichier de configuration non trouvé: config.yaml
+2025-04-02 21:45:04,050 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra CSI (index 0)
+2025-04-02 21:45:04,054 - PiCarX.Camera - WARNING - Tentative 1: Capture échouée
+2025-04-02 21:45:05,055 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra CSI (index 0)
+2025-04-02 21:45:05,059 - PiCarX.Camera - WARNING - Tentative 2: Capture échouée
+2025-04-02 21:45:06,060 - PiCarX.Camera - INFO - Tentative d'ouverture de la caméra CSI (index 0)
+2025-04-02 21:45:06,064 - PiCarX.Camera - WARNING - Tentative 3: Capture échouée
+2025-04-02 21:45:07,065 - PiCarX - ERROR - Erreur lors de l'initialisation: Impossible d'initialiser la caméra
